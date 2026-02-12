@@ -1,0 +1,11 @@
+{
+    "name": "ci-demo",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node test.js",
+        "lint": "echo 'Running linter...'"
+    },
+    "dependencies": {
+        "cowsay": "^1.6.0"
+    }
+}
