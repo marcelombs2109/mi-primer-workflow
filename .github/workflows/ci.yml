@@ -26,4 +26,5 @@ jobs:
         run: npm run lint
 
       - name: ejecutar tests
+        run: npm test
 
